@@ -8,7 +8,7 @@ for x in range(1):
          mulheres=mulheres+1
          idadeTotalF=idadeTotalF+(int(input("Insira sua idade: ")))
     else:
-        homens+=1
+        homens=homens+1
         idadeTotalM=idadeTotalM+(int(input("Insira sua idade: ")))
 
 print("")

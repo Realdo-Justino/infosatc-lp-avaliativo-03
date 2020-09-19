@@ -2,7 +2,7 @@ mulheres=0
 homens=0
 idadeTotalF=0
 idadeTotalM=0
-for x in range(1):
+for x in range(10):
     sexo=(input("Insira o seu sexo (f/m): "))
     if sexo=="m":
          mulheres=mulheres+1
